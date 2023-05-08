@@ -1067,6 +1067,7 @@ p {
 }
 
 .pargr-footer {
+    text-align: left;
     max-width: 264px;
     font-family: 'Roboto';
     font-style: normal;
